@@ -3,7 +3,7 @@ This project represents an innovative application of deep learning to the critic
 
 ![Снимок экрана от 2023-08-24 04-48-53](https://github.com/D1H1/Forest-Damage-Study-A-Deep-Learning-Approach/assets/94292673/a53924e9-cb2d-4de8-b734-0b837c6b305f)
 
-[Original Kaggle Notebook] (https://www.kaggle.com/code/davidhavrilenko/forest-damage-analisys-eripthack/notebook)
+[Original Kaggle Notebook](https://www.kaggle.com/code/davidhavrilenko/forest-damage-analisys-eripthack/notebook)
 
 Key Components:
 - Model Training: The U-net model was meticulously trained for 47 epochs at 49 seconds per epoch on a GPU P100.
